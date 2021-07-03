@@ -8,7 +8,6 @@ import {
   TextInput,
   TouchableOpacity,
 } from "react-native";
-import Button from "../components/button";
 
 
 export default function Register({navigation}) {

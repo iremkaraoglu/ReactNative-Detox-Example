@@ -18,6 +18,5 @@ export default function ListCourses() {
   );
 }
 const styles = StyleSheet.create({
-  // root: {backgroundColor:"white", padding:10},
   header: {color:"#E2683E", fontSize: 28, textAlign:"center", fontWeight:"800"}
 })
